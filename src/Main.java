@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello Worldfsafdasfd!");
+        System.out.println("004-004");
 
     }
 }
